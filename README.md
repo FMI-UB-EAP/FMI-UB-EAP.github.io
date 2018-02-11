@@ -1,4 +1,4 @@
-<h1>Informații despre laboratorul de Elemente avansate de programare</h1>
+<h2>Informații despre laboratorul de Elemente avansate de programare</h2>
 
 <h4>Grupa: Bogdan Ceachi - email: ceachi.bogdan@gmail.com </h4>
 <h4>Grupa: Georgescu Iuliana - email: georgescu_lily@yahoo.com</h4>
