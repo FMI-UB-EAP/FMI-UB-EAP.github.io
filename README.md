@@ -1,1 +1,1 @@
-<href "lab1.pdf">
+[a link](link.pdf)
