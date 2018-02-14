@@ -8,7 +8,7 @@
 <h4>Notare: </h4>
 <ul>
   <li>
-    50% examen scris 
+    60% examen scris 
   </li>
   <li>
     20% laborator:
@@ -22,7 +22,7 @@
     </ul>
   </li>
   <li>
-    30% proiect
+    20% proiect
   </li>
 </ul>
 
