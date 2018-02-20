@@ -33,3 +33,6 @@
 
 <h4>Materiale laborator:</h4>
 [Laboratorul 1](https://drive.google.com/open?id=1apQ2RT3WcmVsAjJSTEKA53JBlI250JQs)
+<br>
+[Întrebări interviu - laboratorul 1](https://drive.google.com/drive/u/1/folders/1YijN9d6plmdnzUe2Yw_58eNmmgCSkD7-)
+<br>
