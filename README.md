@@ -8,10 +8,10 @@
 <h4>Notare: </h4>
 <ul>
   <li>
-    60% examen scris 
+    60% examen scris (minim 5)
   </li>
   <li>
-    20% laborator:
+    20% laborator (minim 5), compus din 2 note:
     <ul>
       <li>
         10% prezență - activitate de laborator
@@ -22,7 +22,7 @@
     </ul>
   </li>
   <li>
-    20% proiect
+    20% proiect (minim 5)
   </li>
 </ul>
 
