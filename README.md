@@ -31,6 +31,10 @@
 <br>
 [Java 60 minutes a day](https://drive.google.com/open?id=1bBPcX7WCetT50s92ZYtT2Xw75FhRGvfn)
 
+<h4>Materiale curs:</h4>
+[Cursul 1](https://drive.google.com/open?id=1hTeXLNuxGyJ5tJCdckLU873LstKLPh5m)
+<br>
+
 <h4>Materiale laborator:</h4>
 [Laboratorul 1](https://drive.google.com/open?id=1apQ2RT3WcmVsAjJSTEKA53JBlI250JQs)
 <br>
