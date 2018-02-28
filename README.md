@@ -40,3 +40,4 @@
 <br>
 [Întrebări interviu - laboratorul 1](https://drive.google.com/file/d/1wyGt_G0ryDhpljvNLXJCrE_XSXgJANVa/view?usp=sharing)
 <br>
+[Laboratorul 2](https://drive.google.com/open?id=1PRcvXPrL8lXGqBhBOGYqmYRWss981NnX)[Arrays](https://drive.google.com/open?id=1WHSFLirq3Y3jwgqA_kqaGeIUe3yTI9cH)[Strings](https://drive.google.com/open?id=10B_DUvsCKxq1AQlU3p3pIr8n5-540yg5)
