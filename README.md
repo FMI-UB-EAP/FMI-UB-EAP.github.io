@@ -44,3 +44,7 @@
 <br>
 [Întrebări interviu - laboratorul 2](https://drive.google.com/open?id=1gRUu5kzKf94eB8oG4IfL0QQfuVaNYGIb)
 <br>
+[Laboratorul 3](https://drive.google.com/open?id=1W2CR4j25cYytzo40fCUMdWQ2FrA2YP4R) - [Class](https://drive.google.com/open?id=1XwqUVF3kKf0rp5oGo8i-NHo8Gz3iXsi5) - [Methods](https://drive.google.com/open?id=1LlaXeDWNv2DiNY1J2EJ1ukWCVAGVuQai)
+<br>
+[Întrebări interviu - laboratorul 3](https://drive.google.com/open?id=1dqVEXp5ZSpjLPu7upMPA8ng95q7j91v-)
+<br>
