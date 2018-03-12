@@ -48,3 +48,8 @@
 <br>
 [Întrebări interviu - laboratorul 3](https://drive.google.com/open?id=1dqVEXp5ZSpjLPu7upMPA8ng95q7j91v-)
 <br>
+[Laboratorul 4](https://drive.google.com/open?id=15S8mtomC8v7OlYOfuBDY7ersD2dNGnwe) - [Abstract](https://drive.google.com/open?id=1JcbvcyznVS6VZL5oI5O_3F5d1dTAQF2Q)
+<br>
+[Întrebări interviu - laboratorul 4](https://drive.google.com/open?id=1-BJd6A0l6psshNkH9rj_U1RGASFd5UZN)
+<br>
+
