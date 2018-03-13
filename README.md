@@ -51,5 +51,7 @@
 [Laboratorul 4](https://drive.google.com/open?id=15S8mtomC8v7OlYOfuBDY7ersD2dNGnwe) - [Abstract](https://drive.google.com/open?id=1JcbvcyznVS6VZL5oI5O_3F5d1dTAQF2Q)
 <br>
 [Întrebări interviu - laboratorul 4](https://drive.google.com/open?id=1-BJd6A0l6psshNkH9rj_U1RGASFd5UZN)
+<br>
+[Întrebări - Overloading](https://docs.google.com/forms/d/e/1FAIpQLSeK3HAfmM-eBQZHCYJA4cf6jH6IviBozaJMz1KRLa-4bGaoYA/viewform?c=0&w=1)
 <br><br>
 
