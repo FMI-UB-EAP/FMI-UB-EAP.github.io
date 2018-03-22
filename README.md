@@ -56,4 +56,8 @@
 <br>
 [Întrebări interviu - laboratorul 4](https://drive.google.com/open?id=1-BJd6A0l6psshNkH9rj_U1RGASFd5UZN)
 <br><br>
+[Laboratorul 5.1](https://drive.google.com/file/d/1wD03WMG5buVi6oyLyTPD7ycvEx3naN5T/view?usp=sharing) - [Laboratorul 5.2](https://drive.google.com/open?id=1ElYhH0FpJYV1d-GnDzTxTRLH8CzKpzYf)
+<br>
+[Întrebări interviu - laboratorul 5](https://drive.google.com/open?id=1X0Oy6Pm2p7KBmkfpku1IBbYtLYTfbL76)
+<br><br>
 
