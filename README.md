@@ -6,7 +6,7 @@
 <h4>Grupa 253: Ceaușescu Ciprian - email: ciprianmihai94@gmail.com</h4>
 
 <h4>Proiecte:<h4>
-[Listă proiecte](https://drive.google.com/file/d/1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3/view?usp=sharing)
+
 <br>
 Proiectele vor fi făcute în echipă - 2 persoane. Un proiect poate fi ales de maxim 2 ori la nivel de grupă.
 <br>
