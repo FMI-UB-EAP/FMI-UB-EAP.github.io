@@ -5,6 +5,13 @@
 <h4>Grupa 252: Georgescu Iuliana - email: georgescu_lily@yahoo.com</h4>
 <h4>Grupa 253: Ceaușescu Ciprian - email: ciprianmihai94@gmail.com</h4>
 
+<h4>Proiecte:<h4>
+[Listă proiecte](https://drive.google.com/file/d/1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3/view?usp=sharing)
+<br>
+Proiectele vor fi făcute în echipă - 2 persoane. Un proiect poate fi ales de maxim 2 ori la nivel de grupă.
+<br>
+Proiectele vor fi alese printr-un email îndrumătorului de laborator, în funcție de detaliile pe care le primiți la laborator/seminar.
+
 <h4>Notare: </h4>
 <ul>
   <li>
@@ -59,5 +66,7 @@
 [Laboratorul 5.1](https://drive.google.com/file/d/1wD03WMG5buVi6oyLyTPD7ycvEx3naN5T/view?usp=sharing) - [Laboratorul 5.2](https://drive.google.com/open?id=1ElYhH0FpJYV1d-GnDzTxTRLH8CzKpzYf)
 <br>
 [Întrebări interviu - laboratorul 5](https://drive.google.com/open?id=1X0Oy6Pm2p7KBmkfpku1IBbYtLYTfbL76)
+<br><br>
+[Laboratorul 6](https://drive.google.com/open?id=1FT2My9cnmdSdCg0uz0DPLuUOSFIvFUVf)
 <br><br>
 
