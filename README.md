@@ -34,39 +34,39 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 </ul>
 
 <h4>Cărți:</h4>
-[Curs practic de Java - Cristian Frasinaru](https://drive.google.com/open?id=1e90JGdGEBI2KYjV_h1zl8tfnL6htdtp4)
+[Curs practic de Java - Cristian Frasinaru] (https://drive.google.com/open?id=1e90JGdGEBI2KYjV_h1zl8tfnL6htdtp4)
 <br>
-[Java 60 minutes a day](https://drive.google.com/open?id=1bBPcX7WCetT50s92ZYtT2Xw75FhRGvfn)
+[Java 60 minutes a day] (https://drive.google.com/open?id=1bBPcX7WCetT50s92ZYtT2Xw75FhRGvfn)
 
 <h4>Materiale curs:</h4>
-[Cursul 1](https://drive.google.com/open?id=1hTeXLNuxGyJ5tJCdckLU873LstKLPh5m)
+[Cursul 1] (https://drive.google.com/open?id=1hTeXLNuxGyJ5tJCdckLU873LstKLPh5m)
 <br><br>
 
 <h4>Întrebări suplimentare</h4>
-[Întrebări - Overloading](https://docs.google.com/forms/d/e/1FAIpQLSeK3HAfmM-eBQZHCYJA4cf6jH6IviBozaJMz1KRLa-4bGaoYA/viewform?c=0&w=1)
+[Întrebări - Overloading] (https://docs.google.com/forms/d/e/1FAIpQLSeK3HAfmM-eBQZHCYJA4cf6jH6IviBozaJMz1KRLa-4bGaoYA/viewform?c=0&w=1)
 <br><br>
 
 <h4>Materiale laborator:</h4>
-[Laboratorul 1](https://drive.google.com/open?id=1apQ2RT3WcmVsAjJSTEKA53JBlI250JQs)
+[Laboratorul 1] (https://drive.google.com/open?id=1apQ2RT3WcmVsAjJSTEKA53JBlI250JQs)
 <br>
-[Întrebări interviu - laboratorul 1](https://drive.google.com/file/d/1wyGt_G0ryDhpljvNLXJCrE_XSXgJANVa/view?usp=sharing)
+[Întrebări interviu - laboratorul 1] (https://drive.google.com/file/d/1wyGt_G0ryDhpljvNLXJCrE_XSXgJANVa/view?usp=sharing)
 <br><br>
-[Laboratorul 2](https://drive.google.com/open?id=1PRcvXPrL8lXGqBhBOGYqmYRWss981NnX) - [Arrays](https://drive.google.com/open?id=1WHSFLirq3Y3jwgqA_kqaGeIUe3yTI9cH) - [Strings](https://drive.google.com/open?id=10B_DUvsCKxq1AQlU3p3pIr8n5-540yg5)
+[Laboratorul 2] (https://drive.google.com/open?id=1PRcvXPrL8lXGqBhBOGYqmYRWss981NnX) - [Arrays] (https://drive.google.com/open?id=1WHSFLirq3Y3jwgqA_kqaGeIUe3yTI9cH) - [Strings] (https://drive.google.com/open?id=10B_DUvsCKxq1AQlU3p3pIr8n5-540yg5)
 <br>
-[Întrebări interviu - laboratorul 2](https://drive.google.com/open?id=1gRUu5kzKf94eB8oG4IfL0QQfuVaNYGIb)
+[Întrebări interviu - laboratorul 2] (https://drive.google.com/open?id=1gRUu5kzKf94eB8oG4IfL0QQfuVaNYGIb)
 <br><br>
-[Laboratorul 3](https://drive.google.com/open?id=1W2CR4j25cYytzo40fCUMdWQ2FrA2YP4R) - [Class](https://drive.google.com/open?id=1XwqUVF3kKf0rp5oGo8i-NHo8Gz3iXsi5) - [Methods](https://drive.google.com/open?id=1LlaXeDWNv2DiNY1J2EJ1ukWCVAGVuQai)
+[Laboratorul 3] (https://drive.google.com/open?id=1W2CR4j25cYytzo40fCUMdWQ2FrA2YP4R) - [Class] (https://drive.google.com/open?id=1XwqUVF3kKf0rp5oGo8i-NHo8Gz3iXsi5) - [Methods] (https://drive.google.com/open?id=1LlaXeDWNv2DiNY1J2EJ1ukWCVAGVuQai)
 <br>
-[Întrebări interviu - laboratorul 3](https://drive.google.com/open?id=1dqVEXp5ZSpjLPu7upMPA8ng95q7j91v-)
+[Întrebări interviu - laboratorul 3] (https://drive.google.com/open?id=1dqVEXp5ZSpjLPu7upMPA8ng95q7j91v-)
 <br><br>
-[Laboratorul 4](https://drive.google.com/open?id=15S8mtomC8v7OlYOfuBDY7ersD2dNGnwe) - [Abstract](https://drive.google.com/open?id=1JcbvcyznVS6VZL5oI5O_3F5d1dTAQF2Q)
+[Laboratorul 4] (https://drive.google.com/open?id=15S8mtomC8v7OlYOfuBDY7ersD2dNGnwe) - [Abstract] (https://drive.google.com/open?id=1JcbvcyznVS6VZL5oI5O_3F5d1dTAQF2Q)
 <br>
-[Întrebări interviu - laboratorul 4](https://drive.google.com/open?id=1-BJd6A0l6psshNkH9rj_U1RGASFd5UZN)
+[Întrebări interviu - laboratorul 4] (https://drive.google.com/open?id=1-BJd6A0l6psshNkH9rj_U1RGASFd5UZN)
 <br><br>
-[Laboratorul 5.1](https://drive.google.com/file/d/1wD03WMG5buVi6oyLyTPD7ycvEx3naN5T/view?usp=sharing) - [Laboratorul 5.2](https://drive.google.com/open?id=1ElYhH0FpJYV1d-GnDzTxTRLH8CzKpzYf)
+[Laboratorul 5.1] (https://drive.google.com/file/d/1wD03WMG5buVi6oyLyTPD7ycvEx3naN5T/view?usp=sharing) - [Laboratorul 5.2] (https://drive.google.com/open?id=1ElYhH0FpJYV1d-GnDzTxTRLH8CzKpzYf)
 <br>
-[Întrebări interviu - laboratorul 5](https://drive.google.com/open?id=1X0Oy6Pm2p7KBmkfpku1IBbYtLYTfbL76)
+[Întrebări interviu - laboratorul 5] (https://drive.google.com/open?id=1X0Oy6Pm2p7KBmkfpku1IBbYtLYTfbL76)
 <br><br>
-[Laboratorul 6](https://drive.google.com/open?id=1FT2My9cnmdSdCg0uz0DPLuUOSFIvFUVf)
+[Laboratorul 6] (https://drive.google.com/open?id=1FT2My9cnmdSdCg0uz0DPLuUOSFIvFUVf)
 <br><br>
 
