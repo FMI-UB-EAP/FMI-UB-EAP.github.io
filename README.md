@@ -69,3 +69,4 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <br><br>
 [Laboratorul 6] (https://drive.google.com/open?id=1FT2My9cnmdSdCg0uz0DPLuUOSFIvFUVf) [Laboratorul 6.1](https://drive.google.com/open?id=1NDEIJotoj68U40m308CNttcWTQAyIWr4)
 <br><br>
+[Google](https://www.google.ro/)
