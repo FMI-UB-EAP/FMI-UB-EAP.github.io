@@ -53,19 +53,19 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <br><br>
 <a href="https://drive.google.com/open?id=1PRcvXPrL8lXGqBhBOGYqmYRWss981NnX">Laboratorul 2</a> - <a href="https://drive.google.com/open?id=1WHSFLirq3Y3jwgqA_kqaGeIUe3yTI9cH">Arrays</a> - <a href="https://drive.google.com/open?id=10B_DUvsCKxq1AQlU3p3pIr8n5-540yg5">Strings</a>
 <br>
-[Întrebări interviu - laboratorul 2] (https://drive.google.com/open?id=1gRUu5kzKf94eB8oG4IfL0QQfuVaNYGIb)
+<a href="https://drive.google.com/open?id=1gRUu5kzKf94eB8oG4IfL0QQfuVaNYGIb">Întrebări interviu - laboratorul 2</a>
 <br><br>
-[Laboratorul 3] (https://drive.google.com/open?id=1W2CR4j25cYytzo40fCUMdWQ2FrA2YP4R) - [Class] (https://drive.google.com/open?id=1XwqUVF3kKf0rp5oGo8i-NHo8Gz3iXsi5) - [Methods] (https://drive.google.com/open?id=1LlaXeDWNv2DiNY1J2EJ1ukWCVAGVuQai)
+<a href="https://drive.google.com/open?id=1W2CR4j25cYytzo40fCUMdWQ2FrA2YP4R">Laboratorul 3</a> - <a href="https://drive.google.com/open?id=1XwqUVF3kKf0rp5oGo8i-NHo8Gz3iXsi5">Class</a> - <a href="https://drive.google.com/open?id=1LlaXeDWNv2DiNY1J2EJ1ukWCVAGVuQai">Methods</a>
 <br>
-[Întrebări interviu - laboratorul 3] (https://drive.google.com/open?id=1dqVEXp5ZSpjLPu7upMPA8ng95q7j91v-)
+<a href="https://drive.google.com/open?id=1dqVEXp5ZSpjLPu7upMPA8ng95q7j91v-">Întrebări interviu - laboratorul 3</a>
 <br><br>
-[Laboratorul 4] (https://drive.google.com/open?id=15S8mtomC8v7OlYOfuBDY7ersD2dNGnwe) - [Abstract] (https://drive.google.com/open?id=1JcbvcyznVS6VZL5oI5O_3F5d1dTAQF2Q)
+<a href="https://drive.google.com/open?id=15S8mtomC8v7OlYOfuBDY7ersD2dNGnwe">Laboratorul 4</a> -<a href="https://drive.google.com/open?id=1JcbvcyznVS6VZL5oI5O_3F5d1dTAQF2Q">Abstract</a>
 <br>
-[Întrebări interviu - laboratorul 4] (https://drive.google.com/open?id=1-BJd6A0l6psshNkH9rj_U1RGASFd5UZN)
+<a href="https://drive.google.com/open?id=1-BJd6A0l6psshNkH9rj_U1RGASFd5UZN">Întrebări interviu - laboratorul 4</a>
 <br><br>
-[Laboratorul 5.1] (https://drive.google.com/file/d/1wD03WMG5buVi6oyLyTPD7ycvEx3naN5T/view?usp=sharing) - [Laboratorul 5.2] (https://drive.google.com/open?id=1ElYhH0FpJYV1d-GnDzTxTRLH8CzKpzYf)
+<a href="https://drive.google.com/file/d/1wD03WMG5buVi6oyLyTPD7ycvEx3naN5T/view?usp=sharing">Laboratorul 5.1</a>- <a href="https://drive.google.com/open?id=1ElYhH0FpJYV1d-GnDzTxTRLH8CzKpzYf">Laboratorul 5.2</a>
 <br>
-[Întrebări interviu - laboratorul 5] (https://drive.google.com/open?id=1X0Oy6Pm2p7KBmkfpku1IBbYtLYTfbL76)
+<a href="https://drive.google.com/open?id=1X0Oy6Pm2p7KBmkfpku1IBbYtLYTfbL76">Întrebări interviu - laboratorul 5</a>
 <br><br>
-[Laboratorul 6] (https://drive.google.com/open?id=1FT2My9cnmdSdCg0uz0DPLuUOSFIvFUVf) [Laboratorul 6.1](https://drive.google.com/open?id=1NDEIJotoj68U40m308CNttcWTQAyIWr4)
+<a href="https://drive.google.com/open?id=1FT2My9cnmdSdCg0uz0DPLuUOSFIvFUVf">Laboratorul 6</a> <a href="https://drive.google.com/open?id=1NDEIJotoj68U40m308CNttcWTQAyIWr4">Laboratorul 6.1</a>
 <br><br>
