@@ -7,7 +7,7 @@
 
 <h4>Proiecte:<h4>
 
-[Lista proiecte](https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3)
+<a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista proiecte</a>
 
 <br>
 Proiectele vor fi făcute în echipă - 2 persoane. Un proiect poate fi ales de maxim 2 ori la nivel de grupă.
