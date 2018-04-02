@@ -6,9 +6,7 @@
 <h4>Grupa 253: Ceaușescu Ciprian - email: ciprianmihai94@gmail.com</h4>
 
 <h4>Proiecte:<h4>
-
 <a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista proiecte</a>
-
 <br>
 Proiectele vor fi făcute în echipă - 2 persoane. Un proiect poate fi ales de maxim 2 ori la nivel de grupă.
 <br>
@@ -36,24 +34,24 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 </ul>
 
 <h4>Cărți:</h4>
-[Curs practic de Java - Cristian Frasinaru] (https://drive.google.com/open?id=1e90JGdGEBI2KYjV_h1zl8tfnL6htdtp4)
+<a href="https://drive.google.com/open?id=1e90JGdGEBI2KYjV_h1zl8tfnL6htdtp4">Curs practic de Java - Cristian Frasinaru</a>
 <br>
-[Java 60 minutes a day] (https://drive.google.com/open?id=1bBPcX7WCetT50s92ZYtT2Xw75FhRGvfn)
+<a href="https://drive.google.com/open?id=1bBPcX7WCetT50s92ZYtT2Xw75FhRGvfn">Java 60 minutes a day</a>
 
 <h4>Materiale curs:</h4>
-[Cursul 1] (https://drive.google.com/open?id=1hTeXLNuxGyJ5tJCdckLU873LstKLPh5m)
+<a href="https://drive.google.com/open?id=1hTeXLNuxGyJ5tJCdckLU873LstKLPh5m">Cursul 1</a>
 <br><br>
 
 <h4>Întrebări suplimentare</h4>
-[Întrebări - Overloading] (https://docs.google.com/forms/d/e/1FAIpQLSeK3HAfmM-eBQZHCYJA4cf6jH6IviBozaJMz1KRLa-4bGaoYA/viewform?c=0&w=1)
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeK3HAfmM-eBQZHCYJA4cf6jH6IviBozaJMz1KRLa-4bGaoYA/viewform?c=0&w=1">Întrebări - Overloading</a>
 <br><br>
 
 <h4>Materiale laborator:</h4>
-[Laboratorul 1] (https://drive.google.com/open?id=1apQ2RT3WcmVsAjJSTEKA53JBlI250JQs)
+<a href="https://drive.google.com/open?id=1apQ2RT3WcmVsAjJSTEKA53JBlI250JQs">Laboratorul 1</a>
 <br>
-[Întrebări interviu - laboratorul 1] (https://drive.google.com/file/d/1wyGt_G0ryDhpljvNLXJCrE_XSXgJANVa/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1wyGt_G0ryDhpljvNLXJCrE_XSXgJANVa/view?usp=sharing">Întrebări interviu - laboratorul 1</a>
 <br><br>
-[Laboratorul 2] (https://drive.google.com/open?id=1PRcvXPrL8lXGqBhBOGYqmYRWss981NnX) - [Arrays] (https://drive.google.com/open?id=1WHSFLirq3Y3jwgqA_kqaGeIUe3yTI9cH) - [Strings] (https://drive.google.com/open?id=10B_DUvsCKxq1AQlU3p3pIr8n5-540yg5)
+<a href="https://drive.google.com/open?id=1PRcvXPrL8lXGqBhBOGYqmYRWss981NnX">Laboratorul 2</a> - <a href="https://drive.google.com/open?id=1WHSFLirq3Y3jwgqA_kqaGeIUe3yTI9cH">Arrays</a> - <a href="https://drive.google.com/open?id=10B_DUvsCKxq1AQlU3p3pIr8n5-540yg5">Strings</a>
 <br>
 [Întrebări interviu - laboratorul 2] (https://drive.google.com/open?id=1gRUu5kzKf94eB8oG4IfL0QQfuVaNYGIb)
 <br><br>
