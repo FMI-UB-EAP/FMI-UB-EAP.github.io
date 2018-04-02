@@ -7,7 +7,14 @@
 
 <h4>Proiecte:<h4>
 <a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista proiecte</a>
-<br>
+<br><br>
+Alocări proiecte:
+<ul>
+  <li>Grupa 251</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1fZPUEMvQ6Zkqf2rspggAn3y6JP8PHLVOvpAPTkGjCyU/edit?usp=sharing">Grupa 252</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1R0NdpCb95gow3MWoj1bZtzeNibHvVCqEM5sLEpSYpiY/edit?usp=sharing">Grupa 253</a></li>
+  <li>Grupa 254</li>
+</ul>
 Proiectele vor fi făcute în echipă - 2 persoane. Un proiect poate fi ales de maxim 2 ori la nivel de grupă.
 <br>
 Proiectele vor fi alese printr-un email îndrumătorului de laborator, în funcție de detaliile pe care le primiți la laborator/seminar.
