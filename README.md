@@ -77,3 +77,6 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <br><br>
 <a href="https://drive.google.com/open?id=1FT2My9cnmdSdCg0uz0DPLuUOSFIvFUVf">Laboratorul 6</a> <a href="https://drive.google.com/open?id=1NDEIJotoj68U40m308CNttcWTQAyIWr4">Laboratorul 6.1</a>
 <br><br>
+<a href="https://drive.google.com/open?id=1XvdQ0vc9VPnytArzsUnfvb0q538OIyG3">Laboratorul 7</a>
+<br>
+<a href="https://drive.google.com/open?id=1_TftYik84xw33spUBNHRr-RbIeEF0gSf">Întrebări interviu - laboratorul 7</a>
