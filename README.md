@@ -80,3 +80,9 @@ Proiectele vor fi alese printr-un email ﾃｮndrumﾄフorului de laborator, ﾃｮn funcﾈ
 <a href="https://drive.google.com/open?id=1XvdQ0vc9VPnytArzsUnfvb0q538OIyG3">Laboratorul 7</a>
 <br>
 <a href="https://drive.google.com/open?id=1_TftYik84xw33spUBNHRr-RbIeEF0gSf">ﾃ始trebﾄビi interviu - laboratorul 7</a>
+<br><br>
+<a href="https://drive.google.com/open?id=1hwULiJmD4EZpq24wcfOsEecqHt8OG92M">Laboratorul 8</a>
+<br>
+<a href="https://drive.google.com/open?id=1T9w-YzzULPckuA8K5fhoUbOrj7KjbdBC">Ex lab 8</a>
+<br>
+<a href="https://drive.google.com/open?id=1EgGWSGdmPMKGza9Uio5O0CXq2ZeXiVoF">ﾃ始trebﾄビi interviu - laboratorul 8</a>
