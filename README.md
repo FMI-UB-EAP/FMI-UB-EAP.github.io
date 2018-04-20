@@ -86,3 +86,5 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <a href="https://drive.google.com/open?id=1T9w-YzzULPckuA8K5fhoUbOrj7KjbdBC">Ex lab 8</a>
 <br>
 <a href="https://drive.google.com/open?id=1EgGWSGdmPMKGza9Uio5O0CXq2ZeXiVoF">Întrebări interviu - laboratorul 8</a>
+<br>
+<a href="https://drive.google.com/open?id=1veoBpvxcy9exR9h-1rXjzAG1Te6RwoXQ">Test laborator 8 - gr 253</a>
