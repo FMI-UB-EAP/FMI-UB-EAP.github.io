@@ -89,6 +89,7 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <br>
 <a href="https://drive.google.com/open?id=1veoBpvxcy9exR9h-1rXjzAG1Te6RwoXQ">Test laborator 8 - gr 253</a>
 <br>
+<br>
 <a href="https://drive.google.com/open?id=1h9g1qFMGopzSR2aQK7oRIW9q1y09LE4m">Creare BD</a>
 <br>
 <a href="https://drive.google.com/open?id=1Hlrm1uAjB2GpkyfYuqJRr1OxAdh8uYva">MySQL Connector</a>
