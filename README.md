@@ -90,8 +90,8 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <a href="https://drive.google.com/open?id=1veoBpvxcy9exR9h-1rXjzAG1Te6RwoXQ">Test laborator 8 - gr 253</a>
 <br>
 <br>
-<a href="https://drive.google.com/open?id=1h9g1qFMGopzSR2aQK7oRIW9q1y09LE4m">Creare BD</a>
+<a href="https://drive.google.com/open?id=1h9g1qFMGopzSR2aQK7oRIW9q1y09LE4m">Laborator 10 - Creare BD</a>
 <br>
-<a href="https://drive.google.com/open?id=1Hlrm1uAjB2GpkyfYuqJRr1OxAdh8uYva">MySQL Connector</a>
+<a href="https://drive.google.com/open?id=1Hlrm1uAjB2GpkyfYuqJRr1OxAdh8uYva">Laborator 10 - MySQL Connector</a>
 <br>
-<a href="https://drive.google.com/open?id=1UHj5CP5ZE50rxpQ0lvfBU0F60J1Swq-y">Tema BD</a>
+<a href="https://drive.google.com/open?id=1UHj5CP5ZE50rxpQ0lvfBU0F60J1Swq-y">Laborator 10 - Tema BD</a>
