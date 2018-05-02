@@ -93,3 +93,5 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <a href="https://drive.google.com/open?id=1h9g1qFMGopzSR2aQK7oRIW9q1y09LE4m">Creare BD</a>
 <br>
 <a href="https://drive.google.com/open?id=1Hlrm1uAjB2GpkyfYuqJRr1OxAdh8uYva">MySQL Connector</a>
+<br>
+<a href="https://drive.google.com/open?id=1UHj5CP5ZE50rxpQ0lvfBU0F60J1Swq-y">Tema BD</a>
