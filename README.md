@@ -95,3 +95,5 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <a href="https://drive.google.com/open?id=1Hlrm1uAjB2GpkyfYuqJRr1OxAdh8uYva">Laborator 10 - MySQL Connector</a>
 <br>
 <a href="https://drive.google.com/open?id=1UHj5CP5ZE50rxpQ0lvfBU0F60J1Swq-y">Laborator 10 - Tema BD</a>
+<br>
+<a href="https://drive.google.com/open?id=1eR3AC4DTmOhjBoxq0_8qVmI9dHPxjL6y">Laborator 10 - Rezolvat</a>
