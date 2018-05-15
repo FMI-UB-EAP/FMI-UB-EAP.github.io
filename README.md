@@ -1,5 +1,7 @@
 <h2>Informații despre laboratorul de Elemente avansate de programare</h2>
 
+<h1>Testul de laborator se sustine in data de 3 iunie 2018, de la ora 09:30.</h1>
+
 <h4>Curs: Cristina Dăscălescu - email: cristina.dascalescu@prof.utm.ro </h4>
 <h4>Grupa 251 | 254: Bogdan Ceachi - email: ceachi.bogdan@gmail.com </h4>
 <h4>Grupa 252: Georgescu Iuliana - email: georgescu_lily@yahoo.com</h4>
@@ -102,3 +104,8 @@ Proiectele vor fi alese printr-un email îndrumătorului de laborator, în func�
 <a href="https://drive.google.com/open?id=19kRYAjnC4CGxMt_l1dhQsSeXP597cSCi">Laborator 11 - JSP Configuare</a>
 <br>
 <a href="https://drive.google.com/open?id=1KLt_SWzOYVA1BHMsRBUuBOdsAhsuzAEw">Laborator 11 - JSP Exemplu</a>
+<br>
+<br>
+<a href="https://drive.google.com/open?id=1AtBqTCf1eIPPXdZpn4B5WrROAnEtWf07">Laborator 12 - Multithread</a>
+<br>
+<a href="https://drive.google.com/open?id=1kwP8MDJeWD7DzRJ1CbVfLRX-REe5xjpq">Laborator 12 - Sockets</a>
