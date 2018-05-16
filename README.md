@@ -1,6 +1,6 @@
 <h2>Informații despre laboratorul de Elemente avansate de programare</h2>
 
-<h1>Testul de laborator se sustine in data de 3 iunie 2018, de la ora 09:30.</h1>
+<h1 style="color:red">Testul de laborator se susține în data de 3 iunie 2018, de la ora 09:30.</h1>
 
 <h4>Curs: Cristina Dăscălescu - email: cristina.dascalescu@prof.utm.ro </h4>
 <h4>Grupa 251 | 254: Bogdan Ceachi - email: ceachi.bogdan@gmail.com </h4>
