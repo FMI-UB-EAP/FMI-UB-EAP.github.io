@@ -1,8 +1,8 @@
 <h2>Informații despre laboratorul de Elemente avansate de programare</h2>
 
 <h1 style="color:red">Testul de laborator se susține în data de 3 iunie 2018, de la ora 09:30.</h1>
-<h4>Pentru testul de laborator puteți avea cu voi o singură foaie A4 cu noțiuni teoretice.</h4>
-<a href="https://drive.google.com/open?id=1zG0XDngZDMGOeZouju--6oz9-641Ye1f">MODEL TEST LABORATOR</a>
+<h4 style="color:red">Pentru testul de laborator puteți avea cu voi o singură foaie A4 cu noțiuni teoretice.</h4>
+<a style="color:red" href="https://drive.google.com/open?id=1zG0XDngZDMGOeZouju--6oz9-641Ye1f">MODEL TEST LABORATOR</a>
 
 <h4>Curs: Cristina Dăscălescu - email: cristina.dascalescu@prof.utm.ro </h4>
 <h4>Grupa 251 | 254: Bogdan Ceachi - email: ceachi.bogdan@gmail.com </h4>
