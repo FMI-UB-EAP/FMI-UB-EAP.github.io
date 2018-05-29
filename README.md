@@ -17,13 +17,13 @@
 <a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista proiecte</a>
 <br><br>
 Alocări proiecte:
-<ul>
+<!--<ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1-VADEOCn9KbVtdPTTleFuahrjygM4Q02G4ecJIdcmzU/edit?usp=sharing">Grupa 244</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1Lrk-NpJYTuXVvljSDTsDo5lR6m5GbdQ2Jhki1ZbAz5g/edit?usp=sharing">Grupa 251</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1fZPUEMvQ6Zkqf2rspggAn3y6JP8PHLVOvpAPTkGjCyU/edit?usp=sharing">Grupa 252</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1R0NdpCb95gow3MWoj1bZtzeNibHvVCqEM5sLEpSYpiY/edit?usp=sharing">Grupa 253</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1C8TuFUU7lvrkksjVtx3eFCaDKmbf1B6HitH3vKc68CA/edit?usp=sharing">Grupa 254</a></li>
-</ul>
+</ul>-->
 Proiectele vor fi făcute în echipă - 2 persoane. Un proiect poate fi ales de maxim 2 ori la nivel de grupă.
 <br>
 Proiectele vor fi alese printr-un email îndrumătorului de laborator, în funcție de detaliile pe care le primiți la laborator/seminar.
