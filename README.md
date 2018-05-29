@@ -3,6 +3,10 @@
 <h1 style="color:red">Testul de laborator se susține în data de 3 iunie 2018, de la ora 09:30.</h1>
 <h4 style="color:red">Pentru testul de laborator puteți avea cu voi o singură foaie A4 cu noțiuni teoretice.</h4>
 <a style="color:red" href="https://drive.google.com/open?id=1yslVGCmjfRJyzeIXkcGq55yXtsujLS-jGp0mIzqLSLk">MODEL TEST LABORATOR</a>
+<br>
+<a href="https://drive.google.com/open?id=1Fkqfb19ya-BrFGoN_MAywj9iy3wPLB-f">Rezolvare test 1</a>
+<br>
+<a href="https://drive.google.com/open?id=1C8Xp8l0l8-tso9gkXileezKmMTf0HgpB">Rezolvare test 2</a>
 
 <h4>Curs: Cristina Dăscălescu - email: cristina.dascalescu@prof.utm.ro </h4>
 <h4>Grupa 251 | 254: Bogdan Ceachi - email: ceachi.bogdan@gmail.com </h4>
