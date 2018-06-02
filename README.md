@@ -1,6 +1,13 @@
 <h2>Informații despre laboratorul de Elemente avansate de programare</h2>
 
-<h1 style="color:red">Testul de laborator se susține în data de 3 iunie 2018, de la ora 09:30.</h1>
+<h4 style="color:red">Testul de laborator se susține în data de 3 iunie 2018, de la ora 09:30.</h4>
+<!--<h4> Important! Informatii pentru testul de laborator</h4>
+<ul>
+  <li>Testul de laborator dureaza 2 ore. </li>
+  <li>Accesul in sali se face cel tarziu pana la ora 9:20.</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1gOho9ZiQTZJmKa2DmXMIfxO7dqOxOa4kiT7jkiWJ7KE/edit?usp=sharing">Repartizarea pe sali</a></li>
+</ul>-->
+
 <h4 style="color:red">Pentru testul de laborator puteți avea cu voi o singură foaie A4 cu noțiuni teoretice.</h4>
 <a style="color:red" href="https://drive.google.com/open?id=1yslVGCmjfRJyzeIXkcGq55yXtsujLS-jGp0mIzqLSLk">MODEL TEST LABORATOR</a>
 <br>
