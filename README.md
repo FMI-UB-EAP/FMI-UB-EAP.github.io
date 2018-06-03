@@ -1,5 +1,21 @@
 <h2>Informații despre laboratorul de Elemente avansate de programare</h2>
 
+<a href="https://drive.google.com/open?id=1NUJ2amz0SydpqOQkCpbIDVSkn6yeUure49h0Qqm77xU">Test nr 1</a>
+<br>
+<a href="https://drive.google.com/open?id=1B3wXtmAfIlq3MPrmKFjNdlgWf4U6CQWL1xfUm_b5LaE">Test nr 2</a>
+<br>
+<a href="https://drive.google.com/open?id=1jmyKRnTWIlaJ1nr7omkvvuF5ZoqCGwK5mb_Yshs3rhs">Test nr 3</a>
+<br>
+<a href="https://drive.google.com/open?id=1rRiRludPdrfifd7kNUtvu_tCtMI7pRzbnrTIevu5KQ0">Test nr 4</a>
+<br>
+<a href="https://drive.google.com/open?id=1Gd-4R7qvmfAXNQfEaSiW5hI7yCYmZTEE">Fisier text 1</a>
+<br>
+<a href="https://drive.google.com/open?id=16-yrsEq5fmbVz71eBCRNn2b-OY9h_OWY">Fisier text 2</a>
+<br>
+<a href="https://drive.google.com/open?id=1QX0XQn3W0rjqlPdBE0QBu-z74AZElPSg">Fisier text 3</a>
+<br>
+<a href="https://drive.google.com/open?id=1TLEGV1qdxaEA04NhV-SEj8rAKqwXPwHX">Fisier text 4</a>
+
 <h4 style="color:red">Testul de laborator se susține în data de 3 iunie 2018, de la ora 09:30.</h4>
 <h4> Important! Informatii pentru testul de laborator</h4>
 <ul>
