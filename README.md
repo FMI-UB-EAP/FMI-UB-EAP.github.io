@@ -1,5 +1,7 @@
 <h2>Informații despre laboratorul de Elemente avansate de programare</h2>
 
+<a href="https://docs.google.com/spreadsheets/d/1NuspctrKtN8at1KIC73XYWZMNyrgB4B11lMy_Th0csc/edit?usp=sharing">Punctaje finale</a>
+<br>
 <a href="https://drive.google.com/open?id=1NUJ2amz0SydpqOQkCpbIDVSkn6yeUure49h0Qqm77xU">Test nr 1</a>
 <br>
 <a href="https://drive.google.com/open?id=1B3wXtmAfIlq3MPrmKFjNdlgWf4U6CQWL1xfUm_b5LaE">Test nr 2</a>
