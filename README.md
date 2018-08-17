@@ -18,12 +18,13 @@
 <br>
 <a href="https://drive.google.com/open?id=1TLEGV1qdxaEA04NhV-SEj8rAKqwXPwHX">Fisier text 4</a>
 
-<h4 style="color:red">Testul de laborator se susține în data de 3 iunie 2018, de la ora 09:30.</h4>
-<h4> Important! Informatii pentru testul de laborator</h4>
+<h4 style="color:red">ANUNȚ RESTANȚĂ - EAP / PAO: Testul de laborator se susține în data de 01 septembrie 2018, de la ora 08:00.</h4>
+<h4> Important! Informații pentru testul de laborator și susținerea proiectelor:</h4>
 <ul>
   <li>Testul de laborator dureaza 2 ore. </li>
-  <li>Accesul in sali se face cel tarziu pana la ora 9:20.</li>
-  <li><a href="https://docs.google.com/spreadsheets/d/1gOho9ZiQTZJmKa2DmXMIfxO7dqOxOa4kiT7jkiWJ7KE/edit?usp=sharing">Repartizarea pe sali</a></li>
+  <li>După test, vom corecta împreună testul.</li>
+  <li>După corectat, se vor prezenta proiectele.</li>
+  <li><a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista de proiecte a rămas aceeași ca în vară.</a</li>
 </ul>
 
 <h4 style="color:red">Pentru testul de laborator puteți avea cu voi o singură foaie A4 cu noțiuni teoretice.</h4>
