@@ -24,7 +24,7 @@
   <li>Testul de laborator dureaza 2 ore. </li>
   <li>După test, vom corecta împreună testul.</li>
   <li>După corectat, se vor prezenta proiectele.</li>
-  <li><a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista de proiecte a rămas aceeași ca în vară.</a</li>
+  <li><a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista de proiecte a rămas aceeași ca în vară.</a></li>
 </ul>
 
 <h4 style="color:red">Pentru testul de laborator puteți avea cu voi o singură foaie A4 cu noțiuni teoretice.</h4>
