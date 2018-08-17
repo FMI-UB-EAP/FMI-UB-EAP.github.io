@@ -21,7 +21,7 @@
 <h4 style="color:red">ANUNȚ RESTANȚĂ - EAP / PAO: Testul de laborator se susține în data de 01 septembrie 2018, de la ora 08:00.</h4>
 <h4> Important! Informații pentru testul de laborator și susținerea proiectelor:</h4>
 <ul>
-  <li>Testul de laborator dureaza 2 ore. </li>
+  <li>Testul de laborator durează 2 ore. </li>
   <li>După test, vom corecta împreună testul.</li>
   <li>După corectat, se vor prezenta proiectele.</li>
   <li><a href="https://drive.google.com/open?id=1Kt9qCRwvrYQXA54aq1Qr8iGhAG5iEFZ3">Lista de proiecte a rămas aceeași ca în vară.</a></li>
